@@ -12,8 +12,8 @@
 
  		System.out.println("Edwin Constancia");
  		System.out.println("Lab 1");
+ 		System.out.println("Hello Java");
  		System.out.println("08/19/20");
- 		System.out.println("Edwin Constancia");
  		System.out.println("CMSC 255 AND 004");
  		System.out.println();
  		} 
